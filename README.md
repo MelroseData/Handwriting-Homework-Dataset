@@ -29,4 +29,4 @@ We provide three different versions of the dataset, each designed for different 
 The dataset is available for free download on GitHub, Kaggle, and Hugging Face. Researchers and developers can utilize it for OCR, handwriting recognition, and educational AI applications.
 The offical website is http://handwriting-ocr.org/
 
-
+**Download here**:https://huggingface.co/datasets/XinyueZhou/Handwriting_Homework_dataset
